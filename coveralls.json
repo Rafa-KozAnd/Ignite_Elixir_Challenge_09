@@ -1,0 +1,17 @@
+{
+    "skip_files": [
+        "test/support",
+        "lib/rockelivery/repo.ex",
+        "lib/rockelivery/orders/test.ex",
+        "lib/rockelivery/stack.ex",
+        "lib/rockelivery_web.ex",
+        "lib/rockelivery_web/auth/erro_handler.ex",
+        "lib/rockelivery_web/auth/pipeline.ex",
+        "lib/rockelivery_web/channels/user_socket.ex",
+        "lib/rockelivery_web/endpoint.ex",
+        "lib/rockelivery_web/gettext.ex",
+        "lib/rockelivery_web/telemetry.ex",
+        "lib/rockelivery_web/views/error_helpers.ex",
+        "lib/rockelivery/via_cep/behaviour.ex"
+    ]
+}
